@@ -1,0 +1,3 @@
+Public IP Address of VM: 20.204.211.99
+
+Storage Container access URL for Q3: https://firststorage8025320049.z29.web.core.windows.net/
